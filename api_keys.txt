@@ -1,8 +1,0 @@
-OpenAI
-sk-proj-RGCu12b0Ai1ozIB9HpkOT3BlbkFJNXsXWpdPOjNELC50NlBk
-
-User manual Assistant Id  
-asst_QfWH2k4Av1w8aje3mbY9pd4v
-
-Bridge Tech Everything Assistant Id (confidential)
-asst_DAin5PQsNCdeYHt2a3xfd3Dh

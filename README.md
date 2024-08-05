@@ -22,7 +22,10 @@ The Bridge Tech Documentation Chatbot is designed to assist users in finding rel
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/bridge-tech-doc-bot.git
+   git clone https://github.com/dorianturner/bridge_chatbot.git
+   username: dorianemmanuelturner@gmail.com
+   password: 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
+
    cd bridge-tech-doc-bot
 
 2. **Create the Virtual Environment**
@@ -47,10 +50,10 @@ The Bridge Tech Documentation Chatbot is designed to assist users in finding rel
     export OPENAI_ASSISTANT_ID="asst_OKoiBFCgqLy8LpDc19pMRTKZ"
 
     Support Slack Bot User OAuth Token
-    export SLACK_BOT_TOKEN="xoxb-359415604338-7520987589280-J69Ai1XbFFqeXsQ09qt4OHXZ"
+    export SLACK_BOT_TOKEN="xoxb-359415604338-7551325092256-8kkPYDCJDsyazsC7eDN512Ps"
 
     Support Slack Signing Secret
-    export SLACK_SIGNING_SECRET="1a2c86581c1eba7e23d96815a766812a"
+    export SLACK_SIGNING_SECRET="e1fa989f1d56ae089e3db6d82e0c02e8"
 
     ==================================================================================
 
@@ -58,10 +61,10 @@ The Bridge Tech Documentation Chatbot is designed to assist users in finding rel
     export OPENAI_ASSISTANT_ID="asst_QfWH2k4Av1w8aje3mbY9pd4v"
 
     Developer Slack Bot User OAuth Token
-    export SLACK_BOT_TOKEN="xoxb-359415604338-7461375067063-73A6xQPPMOUTR2YH20Gb1t5b"
+    export SLACK_BOT_TOKEN="xoxb-359415604338-7541057643265-NtIDpkAXyTcdzBN3ZMyfWmtD"
 
     Developer Slack Signing Secret
-    export SLACK_SIGNING_SECRET="a0de2fdb2869dfdeba31e31f126f40da"
+    export SLACK_SIGNING_SECRET="d76202630c0c299a8bbb21724777eb56"
 
 ## Usage
 
@@ -76,3 +79,9 @@ The Bridge Tech Documentation Chatbot is designed to assist users in finding rel
 
     For ngrok, copy the forwarding link it gives you e.g. https://8ebb-91-90-105-66.ngrok-free.app and paste into the app manifest yaml config in following the guide.
 
+    Slack Configuration Token
+
+    xoxe.xoxp-1-Mi0yLTM1OTQxNTYwNDMzOC03MzkwODA1MTEyNjYwLTc0MzkzOTUzNzExNTUtNzUzMDg1NjA5NDEzMi1jNmJkMDk3ZjUxMTZjOGE5YTFlZTg4MTU4Y2JiZjgzOTQxM2RmZTI5OTBlNzRhYmYwNmIzMjFjNjgyMDA1ZGIx
+
+    Slack Configuration Refresh Token
+    xoxe-1-My0xLTM1OTQxNTYwNDMzOC03NDM5Mzk1MzcxMTU1LTc1MjE3Mzk3ODAzMTAtNjBjY2E3MDU5MmFhZWU5NDAxMDA1MWE5YmU1NGFmMmJlMDU4N2I0YmUwODRiYzYyYWRkNTgwNGRhZDQwN2QzYQ

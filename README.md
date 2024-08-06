@@ -37,7 +37,7 @@ The Bridge Tech Documentation Chatbot is designed to assist users in finding rel
     ```bash
     pip install --upgrade openai chainlit literalai slack_bolt aiohttp
     sudo snap ngrok
-    ngrok config add-authtoken 2jjFifXyZ5tWxEGYf1wSWRTNxQP_5hVRiC7vE2F6TEtAX6r7F
+    ngrok config add-authtoken <Your Auth Token>
 
 4. **Set environment variables**
     ```

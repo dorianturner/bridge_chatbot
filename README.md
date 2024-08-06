@@ -23,8 +23,6 @@ The Bridge Tech Documentation Chatbot is designed to assist users in finding rel
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/dorianturner/bridge_chatbot.git
-   username: dorianemmanuelturner@gmail.com
-   password: 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
 
    cd bridge-tech-doc-bot
 

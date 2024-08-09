@@ -11,6 +11,8 @@
 ## Introduction
 The Bridge Tech Documentation Chatbot is designed to assist users in finding relevant information from our documentation more quickly. This guide provides instructions on setting up the environment, usage, and troubleshooting.
 
+A more indepth guide can be found on our Google Drive in the chatbot folder [here](https://docs.google.com/document/d/1L9vfPnNBob0LJ1he6Zg8cOd9QepisBTFxeUUMjFob0g/edit?usp=sharing) 
+
 ## Setup Environment
 
 ### Prerequisites
@@ -22,14 +24,14 @@ The Bridge Tech Documentation Chatbot is designed to assist users in finding rel
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/dorianturner/bridge_chatbot.git
+   git clone https://github.com/dorianturner/bridge_chatbot.git # Deprecated Link, Nils will add to bridge repo
 
    cd bridge-tech-doc-bot
 
 2. **Create the Virtual Environment**
     ```python
     python3 -m venv venv
-    source venv/bin/activate # On Windows use 'venv\Scripts\activate'
+    source venv/bin/activate 
 
 3. **Install Dependencies**
     ```bash
